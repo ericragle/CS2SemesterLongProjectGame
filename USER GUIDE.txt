@@ -1,0 +1,6 @@
+
+There is very little of this game to play.
+
+MOVEMENT: LEFT (A, left arrow key), RIGHT (W, right arrow key,) JUMP/UP (Spacebar)
+
+...That's it!
